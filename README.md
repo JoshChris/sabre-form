@@ -1,5 +1,5 @@
-#Cipher Challenge
+#Sabre Responsive Form
 
-Decode a cryptoquip in javascript with a simple substitution algorithm
+Creating a responsive form that has javascript validation.
 
 Uses PHP Plates Templating system 
