@@ -1,0 +1,8 @@
+{
+    "name": "christo/cipher-challenge",
+    "description": "Sabre Form Challenge",
+    "type": "project",
+    "require": {
+        "league/plates": "^3.3"
+    }
+}
